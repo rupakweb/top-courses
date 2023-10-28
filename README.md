@@ -1,6 +1,6 @@
 /*
 
-#how to upload on github for git and vscode
+# how to upload react app on github with git and vscode
 # 10 steps ->
 1: open vscode and npm start app <br>
 2: open new terminal cd app-name <br>
